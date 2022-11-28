@@ -54,7 +54,7 @@
         </tbody>
     </table>
     This was a short intro about me.For any queries you may contact me via my email, which is <a
-        href="https://mail.google.com/mail/u/1/?ogbl#inbox" target="blank">shinjinibose34@gmail.com</a>.<br>
+        href="https://mail.google.com/mail/u/2/?ogbl#inbox" target="blank">shinzoshinzo072@gmail.com</a>.<br>
     <strong>Thank you so much for visiting my page.Do provide your reviews below before leaving. </strong>
     <br>
     <form action="practice.php">
