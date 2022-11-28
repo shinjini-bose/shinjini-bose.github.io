@@ -6,12 +6,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SHINJINI BOSE</title>
-
+    
 </head>
 
 <body>
     <h1>SHINJINI BOSE</h1>
-    <img src="image/ME.jpg" height="40%" width="20%" alt="error"><br>
+    <img src="ME.jpg" height="40%" width="20%" alt="Shinjini's profile picture"><br>
     <p>Hello everyone!!!!!I am <strong>Shinjini bose</strong> , a student of <a href="https://aot.edu.in/"
             target="blank">Academy of Technology</a> currently in my 2nd year.I live in <a
             href="https://en.wikipedia.org/wiki/Kolkata" target="blank">Kolkata</a> and I love to travel.The places i
